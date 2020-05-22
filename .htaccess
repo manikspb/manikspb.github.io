@@ -1,2 +1,2 @@
 RewriteEngine On
-Redirect 301 ^.*$ https://wa.me/79112158629
+Redirect 301 / https://wa.me/79112158629
